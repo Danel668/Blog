@@ -116,3 +116,8 @@ C:\Users\Admin\Desktop\Project_C#\Blog-BackEnd\Blog\Blog\obj\Debug\net5.0\refint
 C:\Users\Admin\Desktop\Project_C#\Blog-BackEnd\Blog\Blog\obj\Debug\net5.0\Blog.pdb
 C:\Users\Admin\Desktop\Project_C#\Blog-BackEnd\Blog\Blog\obj\Debug\net5.0\Blog.genruntimeconfig.cache
 C:\Users\Admin\Desktop\Project_C#\Blog-BackEnd\Blog\Blog\obj\Debug\net5.0\ref\Blog.dll
+C:\Users\Admin\Desktop\Project_C#\Blog-BackEnd\Blog\Blog\obj\Debug\net5.0\staticwebassets\Blog.StaticWebAssets.Pack.cache
+C:\Users\Admin\Desktop\Project_C#\Blog-BackEnd\Blog\Blog\obj\Debug\net5.0\staticwebassets\msbuild.Blog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Project_C#\Blog-BackEnd\Blog\Blog\obj\Debug\net5.0\staticwebassets\msbuild.build.Blog.props
+C:\Users\Admin\Desktop\Project_C#\Blog-BackEnd\Blog\Blog\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Blog.props
+C:\Users\Admin\Desktop\Project_C#\Blog-BackEnd\Blog\Blog\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Blog.props
